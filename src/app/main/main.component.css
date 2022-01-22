@@ -1,0 +1,14 @@
+.cardOne {
+    background-color: rgb(26, 26, 27);
+    border: .005rem solid rgba(138, 138, 138, 0.774);
+    border-radius: .1cm;
+    margin: 1%;
+    padding: 1%;text-align: center;
+
+}
+
+.open-close-container {
+    border: 1px solid #dddddd;
+
+
+  }
